@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[walkthrough.gif](https://github.com/cairongli/web102_prework/blob/main/walkthrough.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/cairongli/web102_prework/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Kap
 
